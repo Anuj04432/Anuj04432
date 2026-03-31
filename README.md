@@ -78,8 +78,8 @@ Status: Learning | Building | Scaling
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuj04432&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Anuj04432&theme=tokyonight&hide_border=true&background=000000" width="48%" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ Status: Learning | Building | Scaling
 ## 📌 Code DNA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj04432&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ Status: Learning | Building | Scaling
 ## 👁️ Profile Traffic
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00F7FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Anuj04432&label=Visitors&color=00F7FF&style=flat-square" />
 </p>
 
 ---
