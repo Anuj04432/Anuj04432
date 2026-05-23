@@ -1,17 +1,14 @@
 <!-- 🧠 FUTURISTIC AI BANNER -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f2027,100:00F7FF&height=260&section=header&text=ANUJ%20WAGMORE&fontSize=50&fontColor=00F7FF&animation=blinking&desc=Building%20the%20Future%20with%20AI&descAlignY=70" />
-</p>
-
-<!-- ⚡ NEON INTRO -->
-
-<h1 align="center">⚡ Machine Learning Engineer</h1>
+<h1 align="center">Hi 👋, I'm Anuj Wagmore</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;Deep+Learning+Explorer;Real+World+Builder;Consistency+Over+Motivation" />
+  <b>Machine Learning Engineer • AI Enthusiast • Python Developer</b>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Building+AI+Projects;Exploring+Deep+Learning;Consistency+Over+Motivation" />
+</p>
 ---
 
 <!-- 🧬 IDENTITY BLOCK -->
