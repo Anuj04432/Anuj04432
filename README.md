@@ -29,11 +29,12 @@ Status: Learning | Building | Scaling | Problem Solving
 
 ## 🚀 Project Showcase
 
-### 🧠 AI Task Manager
+### 🤖 AI Offline Chatbot
 
-> Intelligent task prioritization system using Machine Learning
-> 🛠 Tech: Python, Pandas, ML
-> 🔗 [Live Demo](#) | [GitHub Repo](#)
+> An intelligent offline chatbot capable of answering queries without internet access using Machine Learning and NLP.
+> 
+> 🛠 Tech: Python, NLP, Machine Learning, Streamlit(hosting is pending)  
+> 🔗 [Live Demo](#) | [GitHub Repo](https://github.com/Anuj04432/Offline_AI_Assistant.git)
 
 ---
 
@@ -41,7 +42,7 @@ Status: Learning | Building | Scaling | Problem Solving
 
 > Transforming raw datasets into actionable insights
 > 🛠 Tech: Python, Matplotlib
-> 🔗 [Live Demo](#) | [GitHub Repo](#)
+> 🔗 [Live Demo](#) | [GitHub Repo](https://github.com/Anuj04432/Covid_Dashboard.git)
 
 ---
 
@@ -56,7 +57,7 @@ Status: Learning | Building | Scaling | Problem Solving
 ### 🌐 Personal Portfolio
 
 > Clean developer portfolio showcasing projects
-> 🔗 [Visit Website](https://anujwagmoreportfolio.netlify.app/)
+> 🔗 [Visit Website](https://anujwagmore.netlify.app/)
 
 ---
 
