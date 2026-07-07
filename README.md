@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Wagmore</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer • AI Enthusiast • Python Developer</b>
+  <b>Machine Learning • Artificial Intelligence  • Python Developer • DataScience</b>
 </p>
 
 <p align="center">
@@ -54,6 +54,19 @@ Status: Learning | Building | Scaling | Problem Solving
 
 ---
 
+### PriceSense
+> A smart electronic product recommendation system that compares prices across multiple online stores, analyzes reviews, and recommends the best buying option based on price, ratings, and overall value.
+> 🛠 Tech: Python, FastAPI
+>  🔗 [Live Demo](#) | [GitHub Repo](https://github.com/Anuj04432/PriceSense)
+
+---
+
+
+### AI_Task_Handler 
+> A full-stack AI-powered task management application built with Python and Streamlit. Features voice input and output for hands-free task creation, multilingual NLU to understand commands in multiple languages, secure multi-user authentication, SQLite database for persistent storage, and APScheduler for automated reminders and notifications. Designed with a clean, intuitive UI for seamless productivity.
+> 🛠 Tech: Python, FastAPI, Streamlit
+>  🔗 [Live Demo](#) | [GitHub Repo](https://github.com/Anuj04432/AI_Task_Handler)
+
 ### 🌐 Personal Portfolio
 
 > Clean developer portfolio showcasing projects
@@ -66,7 +79,7 @@ Status: Learning | Building | Scaling | Problem Solving
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,numpy,pandas,tensorflow,pytorch&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql,numpy,pandas,fastapi,sklearn,tensorflow,pytorch&perline=6" />
 </p>
 
 ---
