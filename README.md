@@ -61,11 +61,20 @@ Status: Learning | Building | Scaling | Problem Solving
 
 ---
 
-
 ### AI_Task_Handler 
 > A full-stack AI-powered task management application built with Python and Streamlit. Features voice input and output for hands-free task creation, multilingual NLU to understand commands in multiple languages, secure multi-user authentication, SQLite database for persistent storage, and APScheduler for automated reminders and notifications. Designed with a clean, intuitive UI for seamless productivity.
 > 🛠 Tech: Python, FastAPI, Streamlit
 >  🔗 [Live Demo](#) | [GitHub Repo](https://github.com/Anuj04432/AI_Task_Handler)
+
+
+---
+
+### Fake News Detection 
+> A machine learning-based fake news detection system built with Python and Logistic Regression that classifies news articles as real or fake using text analysis and NLP techniques.
+> 🛠 Tech: Python, FastAPI, Streamlit
+>  🔗 [Live Demo](https://fakenewsdetection-anuj.streamlit.app/) | [GitHub Repo](https://github.com/Anuj04432/Fake_News_Detection)
+
+---
 
 ### 🌐 Personal Portfolio
 
