@@ -157,8 +157,7 @@ Status: Learning | Building | Scaling | Problem Solving
 
 ## 🧠 Core Philosophy
 
-> "I don’t follow trends in AI — I explore, build, and create my own path."
-> "Upgrading myself according to the tech"
+I am constantly learning, building, and adapting to transform ideas into impactful AI solutions.
 
 ---
 
