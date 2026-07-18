@@ -119,7 +119,16 @@ Status: Learning | Building | Scaling | Problem Solving
 ## 📌 Code DNA
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anuj04432&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api?username=Anuj04432&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&show=prs_merged_percentage,prs_reviewed" />
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anuj04432&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
