@@ -119,7 +119,7 @@ Status: Learning | Building | Scaling | Problem Solving
 ## 📌 Code DNA
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anuj04432&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anuj04432&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
 </p>
 
 ---
