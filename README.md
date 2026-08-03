@@ -83,6 +83,85 @@ Status: Learning | Building | Scaling | Problem Solving
 
 ---
 
+
+## 🚀 Project Showcase
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Offline Chatbot
+An intelligent offline chatbot that answers queries without internet access, using Machine Learning and NLP.
+
+**Tech:** Python · NLP · Machine Learning · Streamlit
+
+[🔗 GitHub Repo](https://github.com/Anuj04432/Offline_AI_Assistant)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Insight Engine
+Transforms raw datasets into actionable insights through clean, visual analysis.
+
+**Tech:** Python · Matplotlib
+
+[🔗 GitHub Repo](https://github.com/Anuj04432/Covid_Dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Personal Expense Tracker
+A simple, effective tool to track and manage your personal finances.
+
+**Tech:** Python
+
+[🔗 Live Demo](https://personal-expense-tracker-02.streamlit.app/) · [🔗 GitHub Repo](https://github.com/Anuj04432/Personal-Expense-Tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 PriceSense
+A smart product recommendation system that compares prices across online stores and ranks options by price, ratings, and overall value.
+
+**Tech:** Python · FastAPI
+
+[🔗 GitHub Repo](https://github.com/Anuj04432/PriceSense)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ AI Task Handler
+A full-stack AI-powered task manager with voice input/output, multilingual NLU, secure multi-user auth, SQLite storage, and automated reminders via APScheduler.
+
+**Tech:** Python · FastAPI · Streamlit
+
+[🔗 GitHub Repo](https://github.com/Anuj04432/AI_Task_Handler)
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 Fake News Detection
+A machine learning system that classifies news articles as real or fake using NLP and Logistic Regression.
+
+**Tech:** Python · FastAPI · Streamlit
+
+[🔗 Live Demo](https://fakenewsdetection-anuj.streamlit.app/) · [🔗 GitHub Repo](https://github.com/Anuj04432/Fake_News_Detection)
+
+</td>
+</tr>
+</table>
+
+### 🌐 Personal Portfolio
+A clean, modern developer portfolio showcasing my projects and skills.
+
+[🔗 Visit Website](https://anujwagmore.netlify.app/)
+
+---
+
 <!-- 🧠 TECH STACK -->
 
 ## ⚙️ Tech Stack
