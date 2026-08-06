@@ -24,7 +24,13 @@ Status: Learning | Building | Scaling | Problem Solving
 ```
 
 ---
+## 👁️ Profile Traffic
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Anuj04432&label=Visitors&color=00F7FF&style=flat-square" />
+</p>
+
+---
 <!-- 🚀 PROJECT SHOWCASE CARDS -->
 
 ## 🚀 Project Showcase
@@ -157,11 +163,9 @@ A clean, modern developer portfolio showcasing my projects and skills.
 
 <!-- 👁️ VISITOR COUNTER -->
 
-## 👁️ Profile Traffic
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anuj04432&label=Visitors&color=00F7FF&style=flat-square" />
-</p>
+
+
 
 ---
 
