@@ -17,7 +17,7 @@
 
 ```yaml id="z2kq0y"
 Name: Anuj Wagmore
-Role: BTech (2nd Year)
+Role: BTech (3rd Year)
 Specialization: Artificial Intelligence & Machine Learning
 Mission: Building applications that solve real-world problems
 Status: Learning | Building | Scaling | Problem Solving
